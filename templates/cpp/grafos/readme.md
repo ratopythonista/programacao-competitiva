@@ -1,8 +1,8 @@
-#Templetes para Grafos
+# Templetes para Grafos
 
 Templetes em C++ para trabalhar com teoria dos grafos.
 
-##Templates disponíveis
+## Templates disponíveis
 
 * BFS
 * DFS
@@ -12,7 +12,7 @@ Templetes em C++ para trabalhar com teoria dos grafos.
 * Tarjan
 * Unionfind
 
-##Grid templates
+## Grid templates
 
 * BFS Grid
 * DFS Grid
