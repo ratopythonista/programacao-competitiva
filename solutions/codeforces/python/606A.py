@@ -1,0 +1,5 @@
+a, b, c = map(int, input().split())
+x, y, z = map(int, input().split())
+tenho = max(0, (a-x)//2) + max(0, (b-y)//2) + max(0, (c-z)//2)
+quero = abs(min(0, a-x) + min(0, b-y) + min(0, c-z))
+print('Yes' if quero <= tenho else 'No')
