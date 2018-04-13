@@ -3,3 +3,4 @@
 ## Templates Disponíveis
 
 * DFS
+* BFS
